@@ -1,0 +1,2 @@
+Auf einem Linux-Recher und einem anderem Rechner mit der Git-Bash lässt sich die Datei HelloWorld mit javac kompilieren 
+und dann mit dem Befehl java ausführen, sodass auf der Konsole "Moin Moin" ausgegeben wird.
